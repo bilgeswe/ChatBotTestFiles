@@ -1,0 +1,83 @@
+1. Summary of the Document
+
+This document is a comprehensive business plan for ToyNova Inc., a company specializing in both classic toys and next-generation, technology-integrated toys. The plan covers:
+
+Classic toy portfolio: Rubik’s Cube, Barbie Dolls, Hot Wheels, Fluffy Toys — highlighting sales, market share, and educational or emotional benefits.
+
+Future ToyNova Originals: DragonFly XR, LegoCastle 2.0, PuppyFriend, EduTab Mini — toys with AI, AR, robotics, sensory interactivity, and STEAM/educational applications.
+
+Financials & Market Data: Regional growth, revenue forecasts, R&D investments, and return on investment.
+
+Target audiences: Age segmentation for engagement and adoption.
+
+Sustainability and tech integration: Compliance, eco-friendly materials, digital integration.
+
+Key themes: Innovation, education, emotional engagement, sustainability, and technology-enhanced play.
+
+2. Purposeful RAG Questions and Answers
+Classic Toy Portfolio
+
+What are the four main categories in ToyNova’s classic toy portfolio?
+Answer: Rubik’s Cube, Barbie Dolls, Hot Wheels Cars, Fluffy Toys
+
+Which classic toy generated the highest revenue last fiscal year, and how much?
+Answer: Barbie Dolls, $1.3 billion
+
+Which toy is specifically noted for its therapeutic and emotional comfort qualities?
+Answer: Fluffy Toys
+
+What annual global sales figure is associated with Rubik’s Cube?
+Answer: 50 million units
+
+By what percentage did ToyNova’s partnership with digital-learning companies boost Rubik’s Cube interest?
+Answer: 15%
+
+Future ToyNova Originals
+
+What is the target age range for DragonFly XR?
+Answer: 6–11 years old
+
+Which toy is projected to boost STEM skill retention by 30%?
+Answer: LegoCastle 2.0
+
+Which toy is designed to respond empathetically to tone and facial expressions?
+Answer: PuppyFriend
+
+What annual sales figure is projected for educational games like EduTab Mini by 2028?
+Answer: $3.2 billion
+
+Which ToyNova Original has the highest projected ROI, and what is it?
+Answer: EduTab Mini, 90%
+
+Financials and Market Data
+
+What is the projected revenue for ToyNova in 2026?
+Answer: $1,500 million
+
+Which region is expected to grow the fastest between 2024 and 2026?
+Answer: North America (from 25% to 31%)
+
+By 2028, what is the projected sustainability compliance percentage?
+Answer: 95%
+
+What is the projected digital integration percentage by 2028?
+Answer: 90%
+
+Popularity and Engagement
+
+Which ToyNova Original has the highest popularity index?
+Answer: EduTab Mini (93)
+
+For which age group do future toys have the highest engagement?
+Answer: Teens (8–15), 45%
+
+What market share percentage does Hot Wheels Cars hold?
+Answer: 22%
+
+RAG System Notes
+
+All questions can be answered directly from the text, ensuring high reliability.
+
+Answers are numerical, factual, or explicitly stated, reducing the chance of guesswork.
+
+Covers classic toys, future products, financials, market data, engagement, and sustainability metrics, giving a comprehensive coverage for retrieval-based QA.

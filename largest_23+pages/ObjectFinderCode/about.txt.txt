@@ -1,0 +1,58 @@
+Summary
+
+Your Django project (forum_project) contains a well-structured app called object_finder.
+It includes properly defined models, forms, templates, and tests.
+You correctly registered your app in INSTALLED_APPS, connected templates and static files, and configured both PostgreSQL and SQLite for development and production.
+The app handles user profiles, posts, comments, tags, and images.
+Your templates include pagination, your static folder handles CSS and JavaScript (including a Wikidata API script), and the admin panel manages Post and Tag.
+
+💡 10 RAG Questions (with Answers)
+1️⃣
+
+Q: In which Django setting must an app be registered to work properly?
+A: It must be listed under INSTALLED_APPS in settings.py.
+
+2️⃣
+
+Q: What is the name of the main Django app described in the project?
+A: apps.object_finder.
+
+3️⃣
+
+Q: Which models are defined in the object_finder app?
+A: Post, Comment, Tag, Profile, and Image.
+
+4️⃣
+
+Q: What is the purpose of the SignUpForm, PostForm, and CommentForm?
+A: They handle user registration, post creation, and comment submission respectively.
+
+5️⃣
+
+Q: What are two main templates used for displaying user and post details?
+A: profile.html and view_post.html.
+
+6️⃣
+
+Q: What do {% url %} and {% include %} tags do in Django templates?
+A: {% url %} creates dynamic links, and {% include %} reuses template components.
+
+7️⃣
+
+Q: Which files handle static resources like CSS and JavaScript?
+A: styles.css and wikidata.js.
+
+8️⃣
+
+Q: Why are both settings.py and settings_dev.py included in the project?
+A: To allow switching between PostgreSQL (production) and SQLite (development) environments.
+
+9️⃣
+
+Q: Which models are registered in the Django admin panel?
+A: Tag and Post.
+
+🔟
+
+Q: What aspects of the project are covered by the current tests?
+A: Tests check user creation and post creation functionalities.

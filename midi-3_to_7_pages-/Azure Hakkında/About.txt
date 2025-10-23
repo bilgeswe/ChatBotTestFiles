@@ -1,0 +1,54 @@
+1 Satırlık Özet
+
+Bu metin, Azure’un veri işleme, depolama ve analiz hizmetlerini (Data Factory, Databricks, Synapse, Data Lake, Power BI) kullanarak Lakehouse mimarisiyle ETL/ELT veri boru hattı kurmayı anlatıyor.
+
+🌍 10 Karışık (English + Türkçe) RAG Sorusu ve Cevapları
+🟢 RAG Question 1
+
+Q: What is Azure mainly used for in this context?
+A: Azure is used as a cloud platform for data ingestion, transformation, and analytics through tools like Data Factory, Databricks, and Synapse.
+
+🟢 RAG Question 2
+
+Q: Azure Data Factory ne işe yarar?
+A: Azure Data Factory, ETL ve ELT süreçlerini yönetmek, veri kaynaklarını bağlamak ve pipeline’lar oluşturmak için kullanılır.
+
+🟢 RAG Question 3
+
+Q: Which service provides Apache Spark-based big data processing on Azure?
+A: Azure Databricks — it supports distributed processing, machine learning, and Lakehouse transformations.
+
+🟢 RAG Question 4
+
+Q: Lakehouse mimarisindeki üç katman nedir?
+A: Bronze (ham veri), Silver (işlenmiş veri) ve Gold (analize hazır veri) katmanlarıdır.
+
+🟢 RAG Question 5
+
+Q: In an Azure Lakehouse, where is raw (unprocessed) data stored?
+A: It is stored in the Bronze layer within Azure Data Lake Storage Gen2.
+
+🟢 RAG Question 6
+
+Q: ELT süreci ETL’den nasıl farklıdır?
+A: ELT’de veriler önce yüklenir, sonra dönüştürülür; ETL’de ise dönüşüm yüklemeden önce yapılır.
+
+🟢 RAG Question 7
+
+Q: What is Delta Lake, and how does it enhance Parquet format?
+A: Delta Lake adds ACID transactions, versioning, and real-time streaming support on top of Parquet files.
+
+🟢 RAG Question 8
+
+Q: Change Data Capture (CDC) ne amaçla kullanılır?
+A: CDC, veri kaynaklarındaki değişiklikleri (insert, update, delete) izleyerek gerçek zamanlı senkronizasyon sağlar.
+
+🟢 RAG Question 9
+
+Q: What Azure service is typically used to visualize the transformed data?
+A: Azure Power BI, which allows interactive reports and data visualization.
+
+🟢 RAG Question 10
+
+Q: “Hot data” ne anlama gelir ve nasıl saklanır?
+A: “Hot data”, sık erişilen veya yeni güncellenmiş veri olup Delta Lake formatında saklanır ve anlık analiz için kullanılır.

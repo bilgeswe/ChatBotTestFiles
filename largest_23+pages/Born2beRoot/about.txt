@@ -1,0 +1,76 @@
+🧭 Summary (Short)
+
+The Born2beroot project is about creating and securing a virtual machine using Debian or Rocky Linux.
+Students must configure:
+
+A secure partition scheme, strong password policies, and UFW firewall.
+
+SSH access (port 4242) and Sudo with restricted rights.
+
+AppArmor (Debian) or SELinux (Rocky) for process-level security.
+They must also:
+
+Create users and groups properly.
+
+Build and explain a monitoring script that displays system data every 10 minutes.
+
+Understand differences between apt vs aptitude, LightDM vs AppArmor, LVM, and virtualization concepts.
+
+The defense focuses on:
+
+System setup — hostname, partitions, and configuration correctness.
+
+Security & services — SSH, Sudo, UFW, password policies.
+
+Monitoring & theory — explaining LVM, AppArmor, and virtualization.
+
+💡 10 RAG Questions & Answers
+🇹🇷 1.
+
+Soru: Born2beroot projesinin temel amacı nedir?
+Cevap: Güvenli, kurallara uygun bir sanal sunucu ortamı oluşturmak ve sistem yönetimi becerilerini öğrenmektir.
+
+🇹🇷 2.
+
+Soru: Debian tabanlı sistemlerde güvenlik için hangi servis kullanılır?
+Cevap: AppArmor, süreçleri kısıtlayarak sistem güvenliğini artıran bir güvenlik modülüdür.
+
+🇹🇷 3.
+
+Soru: SSH servisi neden varsayılan port 22 yerine 4242’de çalışır?
+Cevap: Güvenlik için, otomatik saldırıları azaltmak amacıyla özel bir port kullanılır.
+
+🇹🇷 4.
+
+Soru: UFW’nin amacı nedir?
+Cevap: UFW (Uncomplicated Firewall), ağ trafiğini kontrol eden basit bir güvenlik duvarıdır.
+
+🇬🇧 5.
+
+Q: What is the difference between apt and aptitude?
+A: Both are package managers, but aptitude has a text-based interface and smarter dependency resolution, while apt is simpler and more direct.
+
+🇬🇧 6.
+
+Q: What is LVM and why is it used?
+A: LVM (Logical Volume Manager) allows flexible disk management, enabling resizing, adding, or removing partitions without unmounting.
+
+🇬🇧 7.
+
+Q: What is the role of /etc/sudoers file?
+A: It defines which users can execute commands as root and under what conditions.
+
+🇬🇧 8.
+
+Q: What is the function of the monitoring script in Born2beroot?
+A: It displays system information (CPU, RAM, disk usage, IP, etc.) every 10 minutes to help monitor the machine.
+
+🇬🇧 9.
+
+Q: How is password policy enforced in Born2beroot?
+A: Through configuration files (/etc/login.defs and PAM modules) defining minimum length, complexity, and expiration rules.
+
+🇬🇧 10.
+
+Q: What is the main difference between AppArmor and SELinux?
+A: AppArmor uses path-based access control (Debian), while SELinux uses label-based control (Rocky Linux).

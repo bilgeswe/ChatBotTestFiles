@@ -1,0 +1,41 @@
+Summary of Istanbul
+
+Istanbul is Turkey’s largest city, with over 15 million people, and serves as the country's economic, cultural, and historical hub. The city spans two continents—Europe and Asia—divided by the Bosphorus Strait. Its strategic location along waterways, trade routes, and rail networks historically made it a center of commerce, religion, and culture.
+
+Founded as Byzantium by Greek colonists around the 7th century BCE, the city became Constantinople under Roman Emperor Constantine in 330 AD and later served as the capital of the Byzantine, Latin, and Ottoman Empires. It played a crucial role in Christianity before becoming a major Islamic city after Ottoman conquest in 1453 under Mehmed II.
+
+The city has undergone extensive urban development and modernization throughout its history, including grand palaces, mosques, markets, and transport networks. Today, Istanbul is a global city contributing about 30% to Turkey’s economy, housing two international airports, major ports, universities, and thriving sports and cultural activities. Despite modern advances, it remains vulnerable to earthquakes due to its proximity to the North Anatolian Fault.
+
+The city has had several names—Byzantium, Constantinople, and finally Istanbul—reflecting its long and diverse history. Its historical peninsula has been settled since the Neolithic era, making Istanbul one of the oldest continuously inhabited cities in the world.
+
+10 RAG Questions (with answers)
+
+Q: What makes Istanbul unique in terms of geography?
+A: Istanbul is unique because it spans two continents, Europe and Asia, divided by the Bosphorus Strait. About two-thirds of the population lives in Europe, and the rest in Asia.
+
+Q: When and by whom was the city of Byzantium (Istanbul) originally founded?
+A: Byzantium was founded around 657 BCE by Greek colonists from Megara.
+
+Q: What were the major empires that made Istanbul (Constantinople) their capital?
+A: Istanbul served as the capital of the Roman Empire, Byzantine Empire, Latin Empire, and Ottoman Empire.
+
+Q: How did the city change after the Ottoman conquest in 1453?
+A: Sultan Mehmed II captured the city, converted Hagia Sophia into a mosque, revitalized the city with new palaces, mosques, markets, and made it a cosmopolitan capital.
+
+Q: Why was Istanbul strategically important historically?
+A: Its position on the Bosphorus and along the Silk Road, plus connections to Europe and West Asia, made it vital for trade, culture, and military strategy.
+
+Q: How has the population of Istanbul changed since the 1950s?
+A: The population increased tenfold as migrants from Anatolia moved to the city, expanding its limits.
+
+Q: What is the origin of the name “Istanbul”?
+A: It comes from the Medieval Greek phrase eis tḕn Pólin meaning “to the city,” reflecting its status as the main city in the region.
+
+Q: What role did Istanbul play in the spread of Christianity?
+A: As the capital of the Byzantine Empire, it became a center of Greek culture and Christianity, building many churches including Hagia Sophia.
+
+Q: Name some modern features that show Istanbul’s global importance today.
+A: Istanbul hosts two international airports, multiple ports, universities, sports clubs, and contributes around 30% to Turkey’s economy.
+
+Q: What natural risk is Istanbul particularly vulnerable to, and why?
+A: Istanbul is vulnerable to earthquakes because it is near the North Anatolian Fault.

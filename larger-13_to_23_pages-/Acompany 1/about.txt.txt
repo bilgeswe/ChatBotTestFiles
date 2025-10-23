@@ -1,0 +1,152 @@
+Not: Firewall'a takılma riski var.
+İçinde karışık dökümanlar var, tablolar zorlayıcı olabilir.
+
+Here’s a set of 10 detailed RAG (Retrieval-Augmented Generation) questions based on the Maccoroni Manufacturing FY2025 review and FY2026 forecast, along with specific, precise answers. I crafted questions to ensure they’re understandable, data-specific, and test comprehension of financial, operational, strategic, and market insights.
+
+Question 1
+
+Q: What was Maccoroni Manufacturing Co.’s total revenue in FY2025, and what were the main factors driving the projected revenue growth for FY2026?
+A: The total revenue in FY2025 was USD 2,000,000, reflecting a +10% growth over 2024. The projected FY2026 revenue growth to USD 2,500,000 is expected to be driven by:
+
++5% volume expansion (volume increasing to ~105 tons),
+
++1.2% average selling price increase, and
+
+margin improvements achieved through energy-efficiency measures and raw-material optimisation.
+
+Question 2
+
+Q: Which product family contributed the highest revenue and which the highest margin in FY2025? Provide figures.
+A:
+
+Highest Revenue: Architectural Paints, USD 1,000,000, accounting for 50% of total revenue.
+
+Highest Contribution Margin: Specialty Coatings, with a margin of 43.3% per ton (ASP USD 30,000, COGS USD 17,000).
+
+Question 3
+
+Q: How was Maccoroni’s revenue geographically distributed in FY2025, and which region showed the most significant domestic dominance?
+A: Revenue distribution:
+
+Domestic: USD 1,240,000 (62%) – dominant, mainly through Retail/DIY channels and Architectural paints.
+
+EU: USD 380,000 (19%) – primarily B2B/OEM Industrial coatings.
+
+Middle East: USD 160,000 (8%) – Wholesale Architectural.
+
+Africa: USD 120,000 (6%) – Industrial through distributors.
+
+Asia: USD 60,000 (3%) – Specialty coatings.
+
+Americas: USD 40,000 (2%) – Automotive export.
+
+Domestic sales were clearly the most dominant market, anchoring company performance.
+
+Question 4
+
+Q: What were the main components of COGS in FY2025 and which component experienced the highest YoY cost increase?
+A: COGS components (USD ‘000, % of COGS, YoY change):
+
+Pigments: 300 (20%), +12% YoY → highest increase
+
+Resins: 225 (15%), +8%
+
+Solvents: 150 (10%), +7%
+
+Additives: 75 (5%), +5%
+
+Energy: 150 (10%), +6%
+
+Packaging: 150 (10%), +4%
+
+Labor: 150 (10%), +3%
+
+Freight: 150 (10%), +9%
+
+Pigments had the largest inflation impact, driving raw-material cost pressures.
+
+Question 5
+
+Q: How did the company’s digitalisation initiatives impact operations in FY2025, and what is planned for FY2026?
+A: FY2025 digitalisation impact:
+
+IoT-based predictive maintenance reduced unplanned downtime by ~12%.
+
+Pilot AI paint-mixing system reduced colour deviations by ~8%.
+
+Planned FY2026 initiatives:
+
+ERP upgrade integrating production, inventory, and financials.
+
+Expansion of AI-driven process-control sensors at Plant A.
+
+Further automation and digital CapEx (USD 180,000 planned, estimated ROI 20%).
+
+Question 6
+
+Q: What was the company’s EBITDA margin in FY2025, and how did it compare to FY2024? Explain the operational factors affecting it.
+A: EBITDA margin in FY2025 was 25.0%, up from 22.5% in FY2024. Operational factors contributing to the improvement included:
+
+Energy efficiency gains reducing utility costs.
+
+Product-mix optimisation favouring higher-margin specialty coatings.
+
+Partial offset of raw-material inflation via strategic procurement and supplier diversification.
+
+Question 7
+
+Q: What are the top three strategic recommendations for FY2026 to maintain growth and margin protection?
+A: Top three recommendations:
+
+Expand production capacity in the Middle East by 20% to meet anticipated demand.
+
+Invest in low-VOC formulations and digital colour-matching systems to maintain premium positioning.
+
+Optimise working capital to free USD 1,000,000, supporting R&D and CapEx funding.
+
+Other recommendations include supplier hedging for pigments and resins, and brand investment focusing on sustainability.
+
+Question 8
+
+Q: How did Maccoroni’s sales channels perform in FY2025, and which channel contributed the largest share of revenue?
+A: Channel performance:
+
+Retail/DIY: 45% of revenue – largest share, driven by domestic renovation demand and online promotions.
+
+B2B/OEM: 25%
+
+Wholesale: 20%
+
+Export: 10%
+
+Insight: Retail/DIY growth (+20% YoY) reflects strong domestic demand and digital outreach success.
+
+Question 9
+
+Q: What was the estimated price elasticity for Architectural and Automotive coatings, and what does it imply about customer sensitivity to price changes?
+A: Price elasticity:
+
+Architectural: –0.65 → moderately sensitive; a 1% price increase leads to ~0.65% volume decrease.
+
+Automotive: –0.85 → highly sensitive; price increases have stronger negative impact on volume.
+
+Implication: Architectural customers tolerate modest price increases, whereas Automotive clients are more price-sensitive, requiring careful pricing strategies to protect revenue.
+
+Question 10
+
+Q: What were the top ESG achievements in FY2025, and how do they align with strategic pillars?
+A: Top ESG achievements:
+
+VOC emissions reduced by 15% vs 2024 baseline.
+
+Investment in low-VOC formulations and sustainability-themed campaigns.
+
+Strengthened brand positioning via “Green Walls, Bright Future” campaign (high engagement on LinkedIn/Instagram).
+
+Alignment with strategic pillars:
+
+Supports Sustainability Leadership, enhancing environmental performance.
+
+Reinforces Customer Proximity and brand trust by communicating eco-friendly practices.
+
+Underpins Innovation & R&D by investing in new, environmentally responsible coatings.

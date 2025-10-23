@@ -1,0 +1,21 @@
+RAG Questions (based on the text)
+
+Who is the mayor of Smitterns county?
+Answer: Adam
+
+What is Adam’s profession besides being a mayor?
+Answer: Dentist
+
+How old is Adam?
+Answer: 25
+
+Format / Guessing Check Questions
+
+What is the mayor of Smitterns’ favorite color?
+Answer: Not stated (should not guess)
+
+Is Adam the mayor of Smitterns county 45 years old?
+Answer: No, he is 25
+
+Does Adam work as a lawyer?
+Answer: No, he works as a dentist

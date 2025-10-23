@@ -1,0 +1,52 @@
+Bilgi: Wikipediden alınan Cluj Şehri detayları. Belgenin içine gömülü linkler mevcut.+
+
+
+RAG Question 1
+
+Q: What is the geographical location of Cluj-Napoca in relation to major European cities?
+A: Cluj-Napoca is located in northwestern Romania and is roughly equidistant from Bucharest (445 km), Budapest (461 km), and Belgrade (483 km).
+
+🟢 RAG Question 2
+
+Q: What is the population of Cluj-Napoca and its metropolitan area according to the 2021 data?
+A: As of 2021, Cluj-Napoca has a population of 286,598, while the metropolitan area has 411,379 people and the peri-urban area approximately 420,000.
+
+🟢 RAG Question 3
+
+Q: What is the historical origin of the name “Napoca”?
+A: Napoca comes from a pre-Roman settlement, later known as Municipium Aelium Hadrianum Napoca after the Roman conquest. Possible origins include Dacian tribes like Naparis or Napaei, the Greek word napos (“timbered valley”), or the Indo-European root snā-p- meaning “to flow, to swim, damp.”
+
+🟢 RAG Question 4
+
+Q: When was Cluj first mentioned in historical documents, and under what name?
+A: The city was first mentioned as Castrum Clus in 1213 as a Royal Borough in Medieval Latin.
+
+🟢 RAG Question 5
+
+Q: What is the likely meaning of the name “Clus”?
+A: The name “Clus” probably derives from the Latin clausa or clusa, meaning “closed place” or “ravine,” referring to the valley enclosed by hills west of Cluj-Mănăștur. It may also relate to the Slavic word ključ (“key”) or the German Klause (“mountain pass”).
+
+🟢 RAG Question 6
+
+Q: What was the role of Cluj-Napoca before the Austro-Hungarian Compromise of 1867?
+A: Before the 1867 Compromise, Cluj served as the official capital of the Grand Principality of Transylvania.
+
+🟢 RAG Question 7
+
+Q: What major institutions and features make Cluj-Napoca an important modern center in Romania?
+A: Cluj-Napoca hosts Babeș-Bolyai University (the country’s largest), a renowned botanical garden, the National Theatre and Opera, and the largest Romanian-owned commercial bank.
+
+🟢 RAG Question 8
+
+Q: How did Cluj-Napoca’s reputation change in the 1990s?
+A: The city suffered a decline in international reputation during the 1990s due to the nationalist policies of its then-mayor, Gheorghe Funar.
+
+🟢 RAG Question 9
+
+Q: What official titles and recognitions has Cluj-Napoca received in recent years?
+A: Cluj-Napoca was the European Youth Capital in 2015, European City of Sport in 2018, and in 2021 joined the UNESCO Creative Cities Network as a UNESCO City of Film.
+
+🟢 RAG Question 10
+
+Q: Why was the name “Napoca” added to “Cluj” during the communist era?
+A: The name “Napoca” was added in 1974 under Nicolae Ceaușescu’s dictatorship to emphasize the city’s pre-Roman roots as part of nationalist myth-making efforts.

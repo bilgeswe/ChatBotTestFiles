@@ -1,0 +1,77 @@
+1. Summary of the document
+
+The text is a detailed encyclopedic description of London, covering its geography, history, governance, population, economy, culture, education, landmarks, and etymology. It highlights that London is the capital of England and the UK, a major global city, a financial and cultural hub, a center of higher education, and a megacity with significant historical landmarks and events. The text also covers population statistics, major institutions, transport systems, World Heritage Sites, and the origin of the city's name.
+
+2. Purposeful RAG Questions
+
+These are questions that can be answered directly from the text, avoiding assumptions or external knowledge. I’ll include the question, exact answer from the text, and reasoning if necessary.
+
+RAG Questions – Population & Geography
+
+What is the estimated population of Greater London in 2025?
+Answer: Just over 9.8 million
+Found in: "The 2025 population of Greater London of just over 9.8 million..."
+
+What river does London stand on?
+Answer: River Thames
+Found in: "London stands on the River Thames in southeast England..."
+
+Which body of water is at the end of London’s tidal estuary?
+Answer: North Sea
+Found in: "...at the head of a 50-mile (80 km) tidal estuary down to the North Sea..."
+
+RAG Questions – History & Governance
+
+Who founded the ancient core of the City of London?
+Answer: The Romans
+Found in: "The City of London ... was founded by the Romans as Londinium..."
+
+Which area hosts the UK national government and parliament?
+Answer: City of Westminster
+Found in: "The City of Westminster, to the west of the City of London, has been the centuries-long host of the national government and parliament."
+
+Since which year has Greater London largely comprised its current administrative area?
+Answer: 1965
+Found in: "...which since 1965 has largely comprised the administrative area of Greater London..."
+
+RAG Questions – Education & Institutions
+
+How many higher education institutions are in London as of 2023?
+Answer: Over 50 universities and colleges
+Found in: "London hosts Europe's largest concentration of higher education institutions, comprising over 50 universities and colleges..."
+
+Name two world-leading academic institutions in London mentioned in the text.
+Answer: Imperial College London and University College London (UCL)
+Found in: "It is home to several of the world's leading academic institutions: Imperial College London... and University College London (UCL)..."
+
+Which London institution is prominent in social sciences and economics?
+Answer: London School of Economics (LSE)
+Found in: "...the London School of Economics (LSE), globally prominent in social sciences and economics..."
+
+RAG Questions – Landmarks & Culture
+
+How many World Heritage Sites are located in London?
+Answer: Four
+Found in: "Four World Heritage Sites are located in London: Kew Gardens; the Tower of London; the site featuring the Palace of Westminster, the Church of St Margaret, and Westminster Abbey; and the historic settlement in Greenwich..."
+
+Name two famous London landmarks besides World Heritage Sites.
+Answer: Buckingham Palace and the London Eye
+Found in: "Other landmarks include Buckingham Palace, the London Eye, Piccadilly Circus, St Paul’s Cathedral, Tower Bridge and Trafalgar Square."
+
+Which is the world’s oldest rapid transit system located in London?
+Answer: London Underground
+Found in: "The London Underground is the world's oldest rapid transit system."
+
+RAG Questions – Etymology
+
+What was London called in Latin during Roman times?
+Answer: Londinium
+Found in: "The City of London ... was founded by the Romans as Londinium..."
+
+From which language does the name 'London' originally come?
+Answer: Common Brythonic
+Found in: "It is agreed that the name came into these languages from Common Brythonic..."
+
+Until what year did the name 'London' officially apply only to the City of London?
+Answer: 1889
+Found in: "Until 1889, the name 'London' applied officially only to the City of London..."
